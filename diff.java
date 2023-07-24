@@ -1,1 +1,2 @@
 "diff file"
+"second line"
